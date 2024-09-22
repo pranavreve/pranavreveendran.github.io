@@ -1,4 +1,4 @@
-# Pranav ReveendRan's Portfolio
+# Pranav Reveendran's Portfolio
 
 Welcome to my personal website repository. This site showcases my professional experience, skills, and projects in the field of Data Analytics and Business Intelligence.
 
